@@ -145,3 +145,4 @@ Plugins/\*/Intermediate/\*
 \# Cache files for the editor to use
   
 DerivedDataCache/\*
+ShooterGame/Content/ModularBuildingSet/Demo_Scene.umap
