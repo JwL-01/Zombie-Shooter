@@ -146,3 +146,4 @@ Plugins/\*/Intermediate/\*
   
 DerivedDataCache/\*
 ShooterGame/Content/ModularBuildingSet/Demo_Scene.umap
+*.log
