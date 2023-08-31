@@ -2,6 +2,6 @@
 ---
  Single player zombie survival game
 
-**Controls & Gameplay **
+**Controls & Gameplay**
 WASD movement
 
