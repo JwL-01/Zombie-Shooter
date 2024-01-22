@@ -6,7 +6,10 @@ Prepare to face the relentless onslaught of zombies. Stay on your toes, as you n
 
 ![image](https://github.com/JwL-01/Zombie-Shooter/assets/38309953/52194c04-36f5-466b-972b-b0304e6ee11f)
 
-Get ready to experience the ultimate adrenaline rush as you face the horrors of a post-apocalyptic world teeming with zombies. Are you prepared to survive the relentless onslaught? Join the battle in Zombie Shooter and prove your mettle in the fight for humanity's future.
+**Project Goals & Objectives**
+---
+The purpose of this project was to learn how to create a first person shooter game. I experimented with first person models and camera tricks to position the hand models and gun models. I also worked on zombie movement and added hit response when the player shoots the zombie. The zombies will chase the player if it is within line of sight. The zombie will roam randomly until it sees the player. I followed online tutorials to create the algorithm for roaming and chasing.
+
 
 **Controls & Gameplay**
 ---
