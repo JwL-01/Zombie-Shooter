@@ -19,7 +19,7 @@ This project began as an exploration of first-person shooter mechanics. Key lear
 - Exploring **zombie AI** using tutorials to enhance roaming and chasing behavior.
 
 ## Technologies Used
-- **Unreal Engine 5**
+- **Unreal Engine 5** 
 - **C++**
 - **AI Behavior Trees** for zombie logic
 - **Blender** (for 3D model adjustments)
