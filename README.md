@@ -20,4 +20,4 @@ Update 2024: Adding multiplayer functionality. See Video Below
 
 ---
 Zombie AI Demonstration Video.
-[![Video](https://img.youtube.com/vi/VyQr_e1gmyA.jpg)](https://youtu.be/VyQr_e1gmyA)
+[![Video](https://img.youtube.com/vi/VyQr_e1gmyA/0.jpg)](https://youtu.be/VyQr_e1gmyA)
