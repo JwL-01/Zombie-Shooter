@@ -17,3 +17,7 @@ Prepare to face the relentless onslaught of zombies. Stay on your toes, as you n
 Update 2024: Adding multiplayer functionality. See Video Below
 
 [![Video](https://img.youtube.com/vi/KiKK-RkUMS0/0.jpg)](https://youtu.be/KiKK-RkUMS0)
+
+---
+Zombie AI Demonstration Video.
+[![Video](https://img.youtube.com/vi/VyQr_e1gmyA.jpg)](https://youtu.be/VyQr_e1gmyA)
