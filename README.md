@@ -1,4 +1,4 @@
-# Zombie Shooter
+# Decay Defenders
 
 ![Zombie Shooter Banner](https://github.com/JwL-01/Zombie-Shooter/assets/38309953/52194c04-36f5-466b-972b-b0304e6ee11f)
 
