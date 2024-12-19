@@ -3,7 +3,7 @@
 ![Zombie Shooter Banner](https://github.com/JwL-01/Zombie-Shooter/assets/38309953/52194c04-36f5-466b-972b-b0304e6ee11f)
 
 ## Introduction
-Welcome to **Zombie Shooter**, a fast-paced first-person shooter game built with **Unreal Engine 5** and **C++**. Dive into a world ravaged by the undead where survival is a test of your aim, reflexes, and strategy. The game's development is ongoing, with frequent updates and exciting new features on the way.
+Welcome to **Decay Defenders**, a fast-paced first-person shooter game built with **Unreal Engine 5** and **C++**. Dive into a world ravaged by the undead where survival is a test of your aim, reflexes, and strategy. The game's development is ongoing, with frequent updates and exciting new features on the way.
 
 ## Table of Contents
 - [Project Goals & Objectives](#project-goals--objectives)
