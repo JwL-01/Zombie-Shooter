@@ -34,7 +34,7 @@ This project began as an exploration of first-person shooter mechanics. Key lear
 ### Gameplay
 Prepare yourself for combat in a zombie-infested environment. Zombies will roam until you are spotted, at which point they will chase you.
 
-### Updates
+## Updates
 Update 2024: Adding multiplayer functionality. Testing over LAN with another user. See Video Below
 
 [![Video](https://img.youtube.com/vi/KiKK-RkUMS0/0.jpg)](https://youtu.be/KiKK-RkUMS0)
