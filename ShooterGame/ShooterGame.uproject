@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "ShooterGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -10,6 +20,14 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }

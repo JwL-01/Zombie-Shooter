@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Documents\\Unreal Projects\\ShooterGame\\Source\\ShooterGame\\ShooterGame.Build.cs",
+		"E:\\Documents\\Unreal Projects\\ShooterGame\\Source\\ShooterGame.Target.cs",
+		"E:\\Documents\\Unreal Projects\\ShooterGame\\Source\\ShooterGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

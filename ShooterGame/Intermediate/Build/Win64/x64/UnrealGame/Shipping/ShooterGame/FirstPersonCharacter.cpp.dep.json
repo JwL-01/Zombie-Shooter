@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\documents\\unreal projects\\shootergame\\source\\shootergame\\firstpersoncharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\documents\\unreal projects\\shootergame\\intermediate\\build\\win64\\x64\\shootergame\\shipping\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\documents\\unreal projects\\shootergame\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\shootergame\\definitions.shootergame.h",
+            "e:\\documents\\unreal projects\\shootergame\\source\\shootergame\\firstpersoncharacter.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\character.generated.h",
+            "e:\\documents\\unreal projects\\shootergame\\intermediate\\build\\win64\\unrealgame\\inc\\shootergame\\uht\\firstpersoncharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

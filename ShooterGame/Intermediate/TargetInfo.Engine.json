@@ -1,0 +1,24 @@
+{
+	"Targets": [
+		{
+			"Name": "DotNetPerforceLib",
+			"Path": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Perforce.Native\\DotNetPerforceLib.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "EventLoopUnitTests",
+			"Path": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source\\Runtime\\Online\\Experimental\\EventLoopTests\\EventLoopUnitTests.Target.cs",
+			"Type": "Program"
+		},
+		{
+			"Name": "UnrealEditor",
+			"Path": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source\\UnrealEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "UnrealGame",
+			"Path": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source\\UnrealGame.Target.cs",
+			"Type": "Game"
+		}
+	]
+}
