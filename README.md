@@ -17,6 +17,7 @@ This project began as an exploration of first-person shooter mechanics. Key lear
 - Implementing **AI-controlled zombies** that roam randomly until spotting the player.
 - Experimenting with player-zombie interactions, including **hit response mechanics**.
 - Exploring **zombie AI** using tutorials to enhance roaming and chasing behavior.
+- Create a building system for dynamic gameplay of environment.
 
 ## Technologies Used
 - **Unreal Engine 5** 
@@ -47,7 +48,7 @@ https://youtu.be/VyQr_e1gmyA
 
 [![Video](https://img.youtube.com/vi/VyQr_e1gmyA/0.jpg)](https://youtu.be/VyQr_e1gmyA)
 
-- December 2024: Created custom island map using the landmass, and water tools in Unreal Engine 5. Also using assetsfrom the UE Marketplace
+- December 2024: Created custom island map using the landmass, and water tools in Unreal Engine 5. Also using assets from the UE Marketplace
 
 https://youtu.be/KJHFvyykDr4
 
