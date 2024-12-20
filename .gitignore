@@ -97,3 +97,4 @@ DerivedDataCache/*
 *.ucas
 Intermediate/*
 Saved/*
+ShooterGame/Content/ModularBuildingSet/Demo_Scene.umap

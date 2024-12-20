@@ -2,8 +2,8 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/modules.xml
 /projectSettingsUpdater.xml
+/modules.xml
 /.idea.ShooterGame.iml
 /contentModel.xml
 # Editor-based HTTP Client requests
