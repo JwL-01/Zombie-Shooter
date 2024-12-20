@@ -48,7 +48,7 @@ https://youtu.be/VyQr_e1gmyA
 
 [![Video](https://img.youtube.com/vi/VyQr_e1gmyA/0.jpg)](https://youtu.be/VyQr_e1gmyA)
 
-- December 2024: Created custom island map using the landmass, and water tools in Unreal Engine 5. Also using assetsfrom the UE Marketplace
+- December 2024: Created custom island map using the landmass, and water tools in Unreal Engine 5. Also using assets from the UE Marketplace
 
 https://youtu.be/KJHFvyykDr4
 
