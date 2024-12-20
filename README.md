@@ -17,6 +17,7 @@ This project began as an exploration of first-person shooter mechanics. Key lear
 - Implementing **AI-controlled zombies** that roam randomly until spotting the player.
 - Experimenting with player-zombie interactions, including **hit response mechanics**.
 - Exploring **zombie AI** using tutorials to enhance roaming and chasing behavior.
+- Create a building system for dynamic gameplay of environment.
 
 ## Technologies Used
 - **Unreal Engine 5** 
